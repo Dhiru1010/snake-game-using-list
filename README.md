@@ -1,21 +1,7 @@
-Snake Game ToDos
 
-- [x] Create Board
-    - [x] Matrix Representation
-- [x] Create Snake
-    - [x] Singly Linked List Representation 
-    - [x] Handle Snake growth
-    - [x] Handle Snake Reversal Direction
-- [x] Styles
-    - [x] Snake Cells
-    - [x] Food Cells
-- [x] Handle keypresses
-- [ ] Handle Movement
-- [x] Handle Food Consumption 
-- [] Handle Death
-- [] Handle Score
-- [] Handle Game Start and Game Reset
 
+![1](https://user-images.githubusercontent.com/70252318/208687649-e3a49a6f-c692-47cb-ade4-02ab274e54ac.png)
+![2](https://user-images.githubusercontent.com/70252318/208687673-59758924-b1bd-4e6d-9f0c-53ab2b1084f8.png)
 
 
 # Getting Started with Create React App
@@ -88,3 +74,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+Snake Game ToDos
+
+- [x] Create Board
+    - [x] Matrix Representation
+- [x] Create Snake
+    - [x] Singly Linked List Representation 
+    - [x] Handle Snake growth
+    - [x] Handle Snake Reversal Direction
+- [x] Styles
+    - [x] Snake Cells
+    - [x] Food Cells
+- [x] Handle keypresses
+- [ ] Handle Movement
+- [x] Handle Food Consumption 
+- [x] Handle Death
+- [x] Handle Score
+- [x] Handle Game Start and Game Reset
