@@ -1,0 +1,22 @@
+.board {
+    outline: 2px solid gray;
+}
+
+.row {
+    height: 40px;
+}
+
+.cell {
+    height: 40px;
+    width: 40px;
+    outline: 1px solid gray;
+    display: inline-block;
+}
+
+.snake-cell {
+    background-color: green;
+}
+
+.food-cell {
+    background-color: red;
+}
